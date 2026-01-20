@@ -3,7 +3,7 @@ Create "vpn_bot" dir
 
 then:
 
-git clone https://github.com/ylyas8892/vpn4tkm.git
+git clone https://github.com/ylyas8892/vpn_bot.git
 
 then:
 
