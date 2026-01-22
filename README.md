@@ -16,3 +16,11 @@ chmod +x deploy.sh
 then start:
 
 ./deploy.sh
+
+systemctl status vpnbot
+
+journalctl -u vpnbot -f
+
+systemctl restart vpnbot
+
+systemctl stop vpnbot
