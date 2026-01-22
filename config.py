@@ -1,6 +1,6 @@
 # --- КОНФИГУРАЦИЯ ---
-API_TOKEN = '8347095873:AAG1fM514VDU5dzM5vu_x64ddbzqOeI4-2o'
-ADMIN_ID = 686160782 # <--- ТВОЙ ID СЮДА
+API_TOKEN = ''
+ADMIN_ID = 12345678 # <--- ТВОЙ ID СЮДА
 
 PRICES = {
     "standard": 20.0,
